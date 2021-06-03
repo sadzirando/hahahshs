@@ -1,1 +1,1 @@
-gg.alert("Rand Quit Discord ×_×
+gg.alert("Rand Quit Discord ×_×") 
